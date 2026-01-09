@@ -23,6 +23,8 @@ Aplikasi Manajemen Perpustakaan sederhana yang dibangun dengan prinsip **OOP (Ob
 ## Akun Demo
 - **Admin**: `admin` / `password`
 - **User**: (Dapat dibuat melalui menu Anggota)
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9c86f5c-c6e5-4ccf-a9ff-d4f4ab6f1676" />
+
 
 ## Dokumentasi
 - **Video Demo**: [Link YouTube](https://youtube.com/...)
